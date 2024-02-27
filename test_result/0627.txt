@@ -1,0 +1,7 @@
+mean_loss:  0.12232014733631642
+mean_f1:  tensor(0.7451)
+mean_iou:  tensor(0.6180)
+
+dims=[16, 32, 64, 128]
+loss = segloss
+frames_length = 5
